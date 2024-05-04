@@ -1,30 +1,23 @@
 # main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-  - title: "CV"
-    url: /files/Resume_callard_baptiste.pdf    
+  - title: "Talks"
+    url: /talks/    
 
+  - title: "Teaching"
+    url: /teaching/    
+    
   - title: "Portfolio"
     url: /portfolio/
-  
-  # - title: "Project"
-  #   url: /project/
-
-  # - title: "Education"
-  #   url: /education/
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    # url: /cv/
+    url: /files/Resume_callard_baptiste.pdf    
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Guide"
+    url: /markdown/
