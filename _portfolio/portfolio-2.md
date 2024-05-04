@@ -1,6 +1,6 @@
 ---
 title: "Project details"
-excerpt: "Multiple Instance Learning with multi-modal medical imaging <br/> Keys words : Self-Supervised Learning (MAE), Cross Attention, Multi-modality, Medical imaging <br/> <img src='/images/mil_im.png' width='300' height='100'>"
+excerpt: "Multiple Instance Learning with multi-modal medical imaging <br/> <b> Keys words <b> : <i> Self-Supervised Learning (MAE), Cross Attention, Multi-modality, Medical imaging <i> <br/> <img src='/images/mil_im.png' width='600' height='200'>"
 collection: portfolio
 ---
 
