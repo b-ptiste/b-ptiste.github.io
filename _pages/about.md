@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-<img src="/images/mva_logo.png" alt="MVA" width="300" height="200" /> <img src="/images/valeo_logo.png" alt="Valeo.ai" width="300" height="200" />
+<img src="/images/mva_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/valeo_logo.png" alt="Valeo.ai" width="150" height="100" />
 
 
 News
 ======
 
-- *News* (`01/05/2024`): Looking for intership or PhD position starting from October 2024. I want like to contribute to a research project in a cutting-edge environment in Multi-modality, Computer Vision, NLP or Graph ML topics. Please feel free to contact me via 📩.
+- *News* (`01/05/2024`): Looking for intership or PhD position starting from October 2024. I want like to contribute to a research project in a cutting-edge environment in Multi-modality, Computer Vision, NLP or Graph ML topics. **Please feel free to contact me** via 📩.
 
 - *News* (`15/04/2024`):
 Join Valeo.ai research team for a 6-month intership til October on "Tokenization from multi-camera autonomous drivin data" under the supervision of [Florent BARTOCCIONI](https://scholar.google.com/citations?user=SemxkMwAAAAJ&hl=fr) and [Spyros Gidaris](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en).
