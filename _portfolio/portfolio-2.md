@@ -1,15 +1,17 @@
 ---
 title: "Project details"
-excerpt: "Multiple Instance Learning with multi-modal medical imaging <br/> <b> Keys words <b> : <i> Self-Supervised Learning (MAE), Cross Attention, Multi-modality, Medical imaging <i> <br/> <img src='/images/mil_im.png' width='600' height='200'>"
+excerpt: "Multiple Instance Learning with multi-modal medical imaging <br/> <b> Keys words </b> : <i> Self-Supervised Learning (MAE), Cross Attention, Multi-modality, Medical imaging </i> <br/> <img src='/images/mil_im.png' width='600' height='200'>"
 collection: portfolio
 ---
+
+Multiple Instance Learning with multi-modal medical imaging
 
 Objective
 ======
 
-The study focuses on lymphocytosis, an increase in lymphocytes (a type of white blood cell) in the bloodstream. This condition can indicate the body's immune response to pathogens or be linked to chronic illnesses like blood cancers. Diagnosis involves microscopic examination and clinical tests. To address the reproducibility issue in diagnosis, the study uses Multi-Instance Learning, leveraging Vision Transformers' ability to capture long-distance relationships between medical images of a patient. They incorporate clinical data to create an efficient, trainable model with low computational resources through distillation and finetuning methods.
+The aim of the project, as described in the document, is to address the advanced task of retrieving molecules using natural language descriptions as queries, introduced by the paper "Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries." This challenge involves developing a method to match textual data with molecular structures from a large database effectively.
 
 Links
 ======
 
-[<img src="/images/GitHub.png" alt="GitHub" width="37.5" height="12.5" />](https://github.com/b-ptiste/dlmi) [<img src="/images/report_icone.png" alt="Report" width="37.5" height="12.5" />](https://drive.google.com/file/d/1Ewp0DFXEhgEjMmSIXJdOwpG5lwtnP4aQ/view?usp=sharing) [<img src="/images/class_icone.png" alt="Report" width="37.5" height="12.5" />](https://www.master-mva.com/cours/deep-learning-for-medical-imaging/)
+[<img src="/images/GitHub.png" alt="GitHub" width="37.5" height="12.5" />](https://github.com/HugoRbrt/altegrad_project/tree/baptiste) [<img src="/images/report_icone.png" alt="Report" width="37.5" height="12.5" />](https://drive.google.com/file/d/1hSdDUQTgvrNfux0yOUAoQeRwecDhosOg/view?usp=drive_link) [<img src="/images/class_icone.png" alt="Report" width="37.5" height="12.5" />](https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/)
