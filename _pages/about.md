@@ -28,4 +28,6 @@ Join **Qohash research team** for a 3-month intership on *"Insider threat detect
 Bio
 ======
 
+```markdown
 I am currently an ML research intern at [Valeo.ai](https://valeoai.github.io/blog/) as part of my **MVA Master's degree at ENS Paris-Saclay** in France. I am studying multi-camera tokenisation methods applied to the field of autonomous cars. I like to work on open-source projects involving as little human supervision as possible and am therefore very interested in self-supervised or few-shot learning methods. Thanks to my last research experiences at [Valeo.ai](https://valeoai.github.io/blog/) and [Airbus DS](https://www.airbus.com/fr/space/space-made-in-france-by-airbus) I have acquired strong knowledge in the field of computer vision which I would like to apply on multi-modal learning topics involving vision, text, graphs and all other modalities.
+```
