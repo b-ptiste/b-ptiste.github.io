@@ -11,6 +11,12 @@ redirect_from:
 <img src="/images/mva_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/valeo_logo.png" alt="Valeo.ai" width="100" height="66" />
 
 
+Resume
+======
+
+<a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/files/Resume_callard_baptiste.pdf" alt="Resume" width="100" height="66.6" /></a>
+
+
 News
 ======
 

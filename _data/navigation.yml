@@ -2,8 +2,7 @@
 main:
 
   - title: "CV"
-    # url: /cv/
-    url: /files/Resume_callard_baptiste.pdf 
+    url: /cv/
 
   - title: "Portfolio"
     url: /portfolio/
