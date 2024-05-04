@@ -1,9 +1,13 @@
 ---
 title: "Project details"
-excerpt: "Multiple Instance Learning with multi-modal medical imagery <br/><img src='/images/mil_im.png' width='300' height='100'>"
+excerpt: "Multiple Instance Learning with multi-modal medical imaging <br/> Keys words : Self-Supervised Learning (MAE), Cross Attention, Multi-modality, Medical imaging <br/> <img src='/images/mil_im.png' width='300' height='100'>"
 collection: portfolio
 ---
 
+Objective
+======
+
+The study focuses on lymphocytosis, an increase in lymphocytes (a type of white blood cell) in the bloodstream. This condition can indicate the body's immune response to pathogens or be linked to chronic illnesses like blood cancers. Diagnosis involves microscopic examination and clinical tests. To address the reproducibility issue in diagnosis, the study uses Multi-Instance Learning, leveraging Vision Transformers' ability to capture long-distance relationships between medical images of a patient. They incorporate clinical data to create an efficient, trainable model with low computational resources through distillation and finetuning methods.
 
 Links
 ======
