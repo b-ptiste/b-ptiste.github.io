@@ -14,7 +14,7 @@ redirect_from:
 Resume
 ======
 
-<a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/files/Resume_callard_baptiste.pdf" alt="Resume" width="100" height="66.6" /></a>
+<a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/images/resume.png" alt="Resume" width="100" height="66.6" /></a>
 
 
 News
