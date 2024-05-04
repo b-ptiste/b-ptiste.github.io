@@ -4,9 +4,5 @@ excerpt: "Multiple Instance Learning with multi-modal medical imagery <br/><img 
 collection: portfolio
 ---
 
-Project details
-======
 
-
-
-[![GitHub](/images/GitHub.png)](https://github.com/b-ptiste/dlmi)
+[<img src="/images/GitHub.png" alt="GitHub" width="75" height="25" />](https://github.com/b-ptiste/dlmi)
