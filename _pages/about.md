@@ -14,7 +14,7 @@ redirect_from:
 Resume
 ======
 
-<a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/images/resume.png" alt="Resume" width="100" height="66.6" /></a>
+<a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/images/resume.png" alt="Resume" width="300" height="100" /></a>
 
 
 News
@@ -36,8 +36,8 @@ I am currently an ML research intern at [Valeo.ai](https://valeoai.github.io/blo
 
 Challenges
 ======
-- Molecule retrieval with natural language (Polytechnique) | **rank** : 1/52 (122 participants)
-- Sketch classification (ENS-Ulm) | **rank** : 4/59
-- Video retrieval (Uni. Klagenfurt) | **rank** : 1/7 (21 participants)
-- Semi-Supervised, Few-shot, novelty instance segmentation (Collège de France) | **rank** : 2/14 (22 participants)
-- Mutli-Modal Multiple Instance Learning (CentraleSupélec - Université Paris-Saclay) | **rank** : 16/39 (78 participants) 
+- Molecule retrieval with natural language (Polytechnique) - **rank** : 1/52 (122 participants)
+- Sketch classification (ENS-Ulm) - **rank** : 4/59
+- Video retrieval (Uni. Klagenfurt) - **rank** : 1/7 (21 participants)
+- Semi-Supervised, Few-shot, novelty instance segmentation (Collège de France) - **rank** : 2/14 (22 participants)
+- Mutli-Modal Multiple Instance Learning (CentraleSupélec - Université Paris-Saclay) - **rank** : 16/39 (78 participants) 
