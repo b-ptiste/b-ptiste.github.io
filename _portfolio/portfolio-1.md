@@ -1,10 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Multiple Instance Learning with multi-modal medical imagery <br/><img src='/images/mil_im.png' width="300" height="100">"
+title: "Project details"
+excerpt: "Multiple Instance Learning with multi-modal medical imagery <br/><img src='/images/mil_im.png' width='300' height='100'>"
 collection: portfolio
 ---
 
-[![GitHub](/images/GitHub.png)](https://github.com/b-ptiste/dlmi)
-
-
+Project details
 ======
+
+
+
+[![GitHub](/images/GitHub.png)](https://github.com/b-ptiste/dlmi)
