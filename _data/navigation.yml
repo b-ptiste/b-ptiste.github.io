@@ -6,14 +6,14 @@ main:
   - title: "CV"
     url: /files/Resume_callard_baptiste.pdf    
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
   
-  - title: "Project"
-    url: /project/
+  # - title: "Project"
+  #   url: /project/
 
-  - title: "Education"
-    url: /education/
+  # - title: "Education"
+  #   url: /education/
 
   # - title: "Teaching"
   #   url: /teaching/    

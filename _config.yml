@@ -12,7 +12,7 @@ title                    : "Baptiste's Academic Website"
 title_separator          : "-"
 name                     : &name "Baptiste CALLARD"
 description              : &description "personal description"
-url                      : https://baptiste-callard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://baptiste-callard.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "b-ptiste/baptiste-callard.github.io"
 
