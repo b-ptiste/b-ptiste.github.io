@@ -1,6 +1,6 @@
 ---
 title: "Project details"
-excerpt: "<b> Multiple Instance Learning with multi-modal medical imaging </b> <br/> <b> Keys words </b> : <i> Self-Supervised Learning (MAE, DiNOv2), Cross Attention, Multi-modality, Medical imaging, fitunning (LoRA, Prompt tunning, adapt former), Vision Transformer </i> <br/> <img src='/images/mil_im.png' width='600' height='200'> <br/> <a href="https://github.com/b-ptiste/dlmi"><img src="/images/GitHub.png" alt="GitHub" width="37.5" height="12.5"></a> <a href="https://drive.google.com/file/d/1Ewp0DFXEhgEjMmSIXJdOwpG5lwtnP4aQ/view?usp=sharing"><img src="/images/report_icone.png" alt="Report" width="37.5" height="12.5"></a> <a href="https://www.master-mva.com/cours/deep-learning-for-medical-imaging/"><img src="/images/class_icone.png" alt="Report" width="37.5" height="12.5"></a>"
+excerpt: "<b> Multiple Instance Learning with multi-modal medical imaging </b> <br/> <b> Keys words </b> : <i> Self-Supervised Learning (MAE, DiNOv2), Cross Attention, Multi-modality, Medical imaging, fitunning (LoRA, Prompt tunning, adapt former), Vision Transformer </i> <br/> <img src='/images/mil_im.png' width='600' height='200'> <br/> "
 collection: portfolio
 ---
 
