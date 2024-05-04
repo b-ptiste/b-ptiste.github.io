@@ -1,8 +1,11 @@
-[---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+---
+title: "Project details"
+excerpt: "Multiple Instance Learning with multi-modal medical imagery <br/><img src='/images/mil_im.png' width='300' height='100'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-](portfolio-1.md)
+
+Links
+======
+
+[<img src="/images/GitHub.png" alt="GitHub" width="37.5" height="12.5" />](https://github.com/b-ptiste/dlmi)

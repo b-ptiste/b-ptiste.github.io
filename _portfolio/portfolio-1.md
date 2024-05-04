@@ -5,4 +5,7 @@ collection: portfolio
 ---
 
 
-[<img src="/images/GitHub.png" alt="GitHub" width="75" height="25" />](https://github.com/b-ptiste/dlmi)
+Links
+======
+
+[<img src="/images/GitHub.png" alt="GitHub" width="37.5" height="12.5" />](https://github.com/b-ptiste/dlmi)
