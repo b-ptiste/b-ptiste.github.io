@@ -21,7 +21,7 @@ repository               : "b-ptiste/baptiste-callard.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
+  avatar           : "profile_pic.jpg"
   name             : "Baptiste CALLARD"
   pronouns         : # example: "she/her"  
   bio              : "ML research intern"
