@@ -2,7 +2,7 @@
 title: "Personal Projects"
 excerpt: "<h2>Cybersecurity</h2>
         <ul>
-            <li> Create a website in html/css from scratch</li>
+            <li> Create a website in html/css from scratch <a href="https://www.codeur.com">Visiter Codeur.com</a> </li>
             <li> Phone Game cloning</li>
             <li> Web-Scraping </li>
             <li> Creation of bots for Instagram </li>
