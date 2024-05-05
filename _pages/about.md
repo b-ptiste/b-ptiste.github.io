@@ -36,13 +36,13 @@ I am currently an ML research intern at [Valeo.ai](https://valeoai.github.io/blo
 
 Challenges
 ======
-- [Molecule retrieval with natural language (Polytechnique)](/portfolio/portfolio-2/) \
+- [Molecule retrieval with natural language] (Polytechnique)(/portfolio/portfolio-2/) \
 <img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 1/52 (122 participants)
-- [Sketch classification (ENS-Ulm)](/portfolio/portfolio-5/) \
+- [Sketch classification] (ENS-Ulm)(/portfolio/portfolio-5/) \
 <img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 4/59
-- [Video retrieval (Uni. Klagenfurt) ](https://github.com/b-ptiste/video-search) \
+- [Video retrieval] (Uni. Klagenfurt)(https://github.com/b-ptiste/video-search) \
 <img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 1/7 (21 participants)
-- [Semi/Self-Supervised, Few-shot, novelty instance segmentation (Collège de France) ](/portfolio/portfolio-3/) \
+- [Semi/Self-Supervised, Few-shot, novelty instance segmentation] (Collège de France)(/portfolio/portfolio-3/) \
 <img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 2/14 (22 participants)
-- [Multi-Modal Multiple Instance Learning (CentraleSupélec - Université Paris-Saclay) ](/portfolio/portfolio-1/) \
+- [Multi-Modal Multiple Instance Learning] (CentraleSupélec - Université Paris-Saclay)(/portfolio/portfolio-1/) \
 <img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 16/39 (78 participants) 
