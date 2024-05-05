@@ -11,7 +11,7 @@ redirect_from:
 
 <span style="color:rgba(82,173,200,255)"> Education </span>
 ======
-======
+
 <img src="/images/mva_logo.png" alt="MVA" width="200" height="133" /> <img src="/images/ens-ps.png" alt="MVA" width="300" height="200" /> <img src="/images/insa.png" alt="MVA" width="200" height="133" />
 
 
