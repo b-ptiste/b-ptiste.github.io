@@ -11,6 +11,12 @@ redirect_from:
 <img src="/images/mva_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/valeo_logo.png" alt="Valeo.ai" width="100" height="66" />
 
 
+
+Highlight
+======
+- Looking for intership or PhD position starting from October 2024. I want like to contribute to a research project in a cutting-edge environment in Multi-modality, Computer Vision, NLP or Graph ML topics. **Please feel free to contact me** via 📩.
+
+
 Bio
 ======
 
@@ -26,9 +32,9 @@ Resume
 News
 ======
 
-- *News* (`01/05/2024`): Looking for intership or PhD position starting from October 2024. I want like to contribute to a research project in a cutting-edge environment in Multi-modality, Computer Vision, NLP or Graph ML topics. **Please feel free to contact me** via 📩.
-
 - *News* (`15/04/2024`): Join **Valeo.ai research team** for a 6-month intership til October on *"Tokenization from multi-camera autonomous drivin data"* under the supervision of [Florent BARTOCCIONI](https://scholar.google.com/citations?user=SemxkMwAAAAJ&hl=fr) and [Spyros Gidaris](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en).
+
+- *News* (`01/09/2023`): Obtained my MS. in **Applied Mathematics** (engineering degree) from INSA Rennes with highest honor (GPA 4.0/4.0).
 
 - *News* (`12/02/2023`): Join **Airbus DS research team** for a 6-month intership on *"Building segmentation and polygonalization from very high resolution satellite imagery"* under the supervision of [Alexandre Mayerowitz](https://www.linkedin.com/in/alexandre-mayerowitz-393a45b7/?originalSubdomain=fr).
 
@@ -39,7 +45,7 @@ Challenges
 ======
 - [Molecule retrieval with natural language](/portfolio/portfolio-12/) (Polytechnique) \
 <img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 1/52 (122 participants)
-- [Sketch classification](/portfolio/portfolio-15/) (ENS-Ulm) \
+- [Sketch classification](/portfolio/portfolio-15/) (ENS Ulm) \
 <img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 4/59
 - [Video retrieval](https://github.com/b-ptiste/video-search)  (Uni. Klagenfurt)\
 <img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 1/7 (21 participants)
