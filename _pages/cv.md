@@ -76,10 +76,10 @@ Teaching
   
 Hobbies
 ======
-* Handball
-  National level player (under 18 yo)
-  Uni. team coach
-  Uni. French Championship (2017 and 2020)
-* Hiking / Treking
-  GR20 (Corsica) : 10 days, 180km, 13.000 D+
-  GR10 (Pyrennees) : 4 days
+* Handball \
+  National level player (under 18 yo) \
+  Uni. team coach \
+  Uni. French Championship (2017 and 2020) \
+* Hiking / Treking \ 
+  GR20 (Corsica) : 10 days, 180km, 13.000 D+  \
+  GR10 (Pyrennees) : 4 days \
