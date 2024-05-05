@@ -1,6 +1,6 @@
 ---
 title: "Project details"
-excerpt: " <b> Sketch classification </b> <br/> <b> Keys words </b> : <i> Vision Transformer, Finethunning, Data Augmentation  </i> <br/> <img src='/images/cup.jpg' width='20.0' height='7.0'> <b> Kaggle <b/> : ranked 4/59 <br/> <img src='/images/sketch.png' width='600' height='200'>"
+excerpt: " <b> Sketch classification </b> <br/> <b> Keys words </b> : <i> Vision Transformer, Finethunning, Data Augmentation  </i> <br/> <img src='/images/cup.jpg' width='20.0' height='7.0'> <b> Kaggle <b/> : ranked 4/59 <br/> <img src='/images/recvis/sketch.png' width='600' height='200'>"
 collection: portfolio
 ---
 
