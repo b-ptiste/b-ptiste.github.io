@@ -1,27 +1,6 @@
 ---
 title: "Project details"
-excerpt: " <b> New loss implementation in Pytorch : Soft-DTW </b> <br/> <b> Keys words </b> : <i> Time Series, DTW, Pytorch </i> <br/> <pre><code class="language-python">import torch
-from tslearn.datasets import UCR_UEA_datasets
-from DTWLoss_CUDA import DTWLoss
-
-# load data
-ucr = UCR_UEA_datasets()
-X_train, y_train, X_test, y_test = ucr.load_dataset("SonyAIBORobotSurface2")
-
-# convert to torch
-X_train = torch.from_numpy(X_train).float().requires_grad_(True)
-loss = DTWLoss(gamma=0.1)
-optimizer = # your optimizer
-
-##############
-# your code ##
-##############
-
-value = loss(X_train[0].unsqueeze(0), X_train[1].unsqueeze(0))
-optimizer.zero_grad()
-value.backward()
-optimizer.step()</code></pre>"
-collection: portfolio
+excerpt: " <b> New loss implementation in Pytorch : Soft-DTW </b> <br/> <b> Keys words </b> : <i> Time Series, DTW, Pytorch </i> 
 ---
 
 Sketch classification
