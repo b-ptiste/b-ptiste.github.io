@@ -14,3 +14,4 @@ permalink: /portfolio/portfolio-20
     Kidney exchange program [<img src="/images/GitHub.png" alt="GitHub" width="15" height="10" />](https://github.com/b-ptiste/kidney-exchange)\
     Shortest path under resource constraints [<img src="/images/GitHub.png" alt="GitHub" width="15" height="10" />](https://github.com/b-ptiste/discret-optimization)
 
+

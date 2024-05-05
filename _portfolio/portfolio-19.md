@@ -8,7 +8,7 @@ permalink: /portfolio/portfolio-19
 <span style="color:rgba(82,173,200,255)"> **Keys words** </span>:\
 *Reinforcement Learning* \
 <span style="color:rgba(82,173,200,255)">**Objective**</span> \\
-*The aim was to explore an example of leanrning reinforcement with sparse reward by comparing model-based versus model-free using the mountain car environment as an application. *\
+*The aim was to explore an example of leanrning reinforcement with sparse reward by comparing model-based versus model-free using the mountain car environment as an application.*\
 <img src='/images/RL/env.png' width='400' height='133'> \
 <span style="color:rgba(82,173,200,255)"> **Links** </span> \
 <!-- [<img src="/images/GitHub.png" alt="GitHub" width="37.5" height="12.5" />](https://github.com/b-ptiste/Composed-Image-Retrieval)  -->
