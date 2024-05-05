@@ -30,6 +30,34 @@ Education
     Reinforcement Learning (by E. Rachelson, E. Kaufmann) \
     Graph in Machine Learning (by Google DeepMind) 
 
+* M.S. in Applied Mathematics, INSA Rennes engineering school, 2023
+  * 2022 - 2023 :
+    Uncertainty and sensitivity analysis in engineering\
+    Optimization under uncertainty\
+    Reliability and Survival Analysis\
+    Sparsity in Signal and Image Processing\
+    Rare Events Estimation and Simulation
+
+  * 2021 - 2022
+    Markov chain (discrete and continuous) and Martingale\
+    Operational Research (PLNE, Simplex, Branch and Bound)\
+    Risk and Scoring (Generalized Regression)\
+    Time series\
+    C++\
+    Introduction to finite differences
+
+  * 2020 - 2021
+    Inferential Statistics (R) \
+    Linear Regression Models (R) \
+    Differential Equation Modelling (Matlab) \
+    Probability \
+    Continuous Optimization (Matlab) \
+    Discrete Optimization (Python) \
+    Data Analysis - PCA, CFA, MCA (R) \
+    Markovian Models (R, Python) \
+    Data Base \
+    Numerical Methods of Linear, Non-Linear (Python/Matlab) \
+    C language
 CV
 ======
 <a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/images/resume.png" alt="Resume" width="300" height="100" /></a>
