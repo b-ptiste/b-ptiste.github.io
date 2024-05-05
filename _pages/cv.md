@@ -58,6 +58,8 @@ Education
     Data Base \
     Numerical Methods of Linear, Non-Linear (Python/Matlab) \
     C language
+
+
 CV
 ======
 <a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/images/resume.png" alt="Resume" width="300" height="100" /></a>
