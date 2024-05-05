@@ -1,6 +1,6 @@
 ---
 title: "Project details"
-excerpt: " <b> Wasserstein Soft Graph Alignment </b> <br/> <b> Keys words </b> : <i> Optimal transport, Graph alignment </i> <br/> <img src='/images/OT.png' width='600' height='200'>"
+excerpt: " <b> Optimal Search </b> : <i> Optimal transport, Graph alignment </i> <br/> <img src='/images/OT.png' width='600' height='200'>"
 collection: portfolio
 ---
 

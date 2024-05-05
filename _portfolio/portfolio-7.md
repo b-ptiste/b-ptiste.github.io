@@ -4,7 +4,7 @@ excerpt: " <b> New loss implementation in Pytorch : Soft-DTW </b> <br/> <b> Keys
 collection: portfolio
 ---
 
-Sketch classification
+New loss implementation in Pytorch : Soft-DTW 
 
 Objective
 ======
