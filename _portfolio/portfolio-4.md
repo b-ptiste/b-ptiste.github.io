@@ -1,6 +1,6 @@
 ---
 title: "Project details"
-excerpt: " <b> Generative adversarial Model </b> <br/> <b> Keys words </b> : <i> Generative Model (VAE), Adversarial black/white box attack </i> <br/> <img src='/images/generative models.png' width='400' height='133'>"
+excerpt: " <b> Generative adversarial Model </b> <br/> <b> Keys words </b> : <i> Generative Model (VAE), Adversarial black/white box attack, probabilistic graphical models </i> <br/> <img src='/images/generative models.png' width='600' height='200'>"
 collection: portfolio
 ---
 
