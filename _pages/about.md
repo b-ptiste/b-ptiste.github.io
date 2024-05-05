@@ -14,7 +14,7 @@ redirect_from:
 
 Highlight
 ======
-Looking for intership or PhD position starting from October 2024. I want like to contribute to a research project in a cutting-edge environment in Multi-modality, Computer Vision, NLP or Graph ML topics. **Please feel free to contact me** via 📩.
+Looking for **intership** or **PhD position** starting from **October 2024**. I want like to contribute to a research project in a cutting-edge environment in Multi-modality, Computer Vision, NLP or Graph ML topics. **Please feel free to contact me** via 📩.
 
 
 Bio
