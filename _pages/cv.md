@@ -133,6 +133,6 @@ Teaching
   National level player (under 18 y.o.) \
   Uni. team coach \
   Uni. French Championship (2017 and 2020) 
-* <span style="color:rgba(82,173,200,255)">Hiking / Treking</span> \ 
+* <span style="color:rgba(82,173,200,255)">Hiking / Treking</span> \
   GR20 (Corsica) : 10 days, 180km, 13.000 D+  \
-  GR10 (Pyrennees) : 4 days 
+  GR10 (Pyrennees) : 4 days
