@@ -18,7 +18,7 @@ CV
 <a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/images/resume.png" alt="Resume" width="300" height="100" /></a>
 
 
-* <span style="color:rgba(82,173,200,255)">**M.S. MVA ENS Paris-Saclay** for research in applied mathematics and AI, Paris-Saclay University, 2024 (expected)</span>
+* <span style="color:rgba(82,173,200,255)">**[M.S. MVA ENS Paris-Saclay](https://www.master-mva.com/)** for research in applied mathematics and AI, Paris-Saclay University, 2024 (expected)</span>
   * <span style="color:rgba(82,173,200,255)">Semester 1 </span>: \
     Convex optimization and applications in machine learning (by A. D'ASPREMONT) \
     Object recognition and computer vision (by G. VAROL, I. LAPTEV, J. PONCE, C. SCHMID, J. SIVIC, M. AUBRY) \
@@ -36,7 +36,7 @@ CV
     Reinforcement Learning (by E. Rachelson, E. Kaufmann) \
     Graph in Machine Learning (by Google DeepMind) 
 
-* <span style="color:rgba(82,173,200,255)">M.S. in Applied Mathematics, INSA Rennes engineering school, 2023</span>
+* <span style="color:rgba(82,173,200,255)">**[M.S. in Applied Mathematics](https://www.insa-rennes.fr/ma.html)**, INSA Rennes engineering school, 2023</span>
   * <span style="color:rgba(82,173,200,255)">2022 - 2023</span> : \
     Uncertainty and sensitivity analysis in engineering\
     Optimization under uncertainty\
@@ -109,7 +109,6 @@ CV
   GCP
 * <span style="color:rgba(82,173,200,255)"> Other </span> \
   Docker, Git, GitHub
-
 
 <!-- Publications
 ======
