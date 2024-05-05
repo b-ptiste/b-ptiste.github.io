@@ -1,8 +1,8 @@
 ---
 title: ""
-excerpt: " <b>University research projects</b><br>
+excerpt: "<b>University research projects</b><br>
     <a href="https://drive.google.com/drive/folders/19jQLkbrrJjarLo0oS0azAe5wn3FVI3aa?usp=drive_link">
-        <img src="/images/cloud.png" alt="Google Drive" width="37.5" height="12.5">
+        link
     </a>"
 collection: portfolio
 ---
