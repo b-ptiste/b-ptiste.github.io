@@ -5,7 +5,7 @@ type: "Tutorial"
 permalink: /portfolio/portfolio-16
 ---
 
-<span style="color:rgba(82,173,200,255)"> **Keys words** </span>:\ 
+<span style="color:rgba(82,173,200,255)"> **Keys words** </span>: \
 *BLIP, Explainability of Attention Mechanism, Hard-Negative/Filtering Sampling* \
 <!-- <span style="color:rgba(82,173,200,255)">**Objective**</span> \\
 ...\ -->
