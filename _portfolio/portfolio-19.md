@@ -5,7 +5,7 @@ type: "Tutorial"
 permalink: /portfolio/portfolio-19
 ---
 
-<span style="color:rgba(82,173,200,255)"> **Keys words** </span>:\
+<span style="color:rgba(82,173,200,255)"> **Keys words** </span> \
 *Reinforcement Learning* \
 <span style="color:rgba(82,173,200,255)">**Objective**</span> \\
 *The aim was to explore an example of leanrning reinforcement with sparse reward by comparing model-based versus model-free using the mountain car environment as an application.*\

@@ -5,7 +5,7 @@ type: "Tutorial"
 permalink: /portfolio/portfolio-12
 ---
 
-<span style="color:rgba(82,173,200,255)"> **Keys words** </span>: \
+<span style="color:rgba(82,173,200,255)"> **Keys words** </span> \
 *Graph ML, LLM, Contrastive Learning, Multi-Modal* \
 <span style="color:rgba(82,173,200,255)">**Objective**</span> \
 *The aim of the project, as described in the document, is to address the advanced task of retrieving molecules using natural language descriptions as queries, introduced by the paper "Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries." This challenge involves developing a method to match textual data with molecular structures from a large database effectively.*\

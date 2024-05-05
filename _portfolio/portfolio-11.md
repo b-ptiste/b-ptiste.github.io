@@ -5,7 +5,7 @@ type: "Tutorial"
 permalink: /portfolio/portfolio-11
 ---
 
-<span style="color:rgba(82,173,200,255)"> **Keys words** </span>:\
+<span style="color:rgba(82,173,200,255)"> **Keys words** </span>\
 *Self-Supervised Learning (MAE, DiNOv2), Cross Attention, Multi-modality, Medical imaging, fitunning (LoRA, Prompt tunning, adapt former), Vision Transformer* \
 <span style="color:rgba(82,173,200,255)">**Objective**</span>\
 *The study focuses on lymphocytosis, an increase in lymphocytes (a type of white blood cell) in the bloodstream. This condition can indicate the body's immune response to pathogens or be linked to chronic illnesses like blood cancers. Diagnosis involves microscopic examination and clinical tests. To address the reproducibility issue in diagnosis, the study uses Multi-Instance Learning, leveraging Vision Transformers' ability to capture long-distance relationships between medical images of a patient. They incorporate clinical data to create an efficient, trainable model with low computational resources through distillation and finetuning methods.*\

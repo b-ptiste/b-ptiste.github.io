@@ -5,7 +5,7 @@ type: "Tutorial"
 permalink: /portfolio/portfolio-17
 ---
 
-<span style="color:rgba(82,173,200,255)"> **Keys words** </span>:\
+<span style="color:rgba(82,173,200,255)"> **Keys words** </span> \
 *Time Series, DTW, Pytorch* \
 <span style="color:rgba(82,173,200,255)">**Objective**</span> \
 *We re-implemented a differentiable version of Dynamic Time Warping (DTW), which allow robust comaprison to shift, length etc. and  thereby expanding the utility of DTW in machine learning. Our work contributes to the current discourse on open-source because we have proposed an optimised losses compatible with PyTorch GPU with our own backward.* \

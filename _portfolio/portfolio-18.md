@@ -5,7 +5,7 @@ type: "Tutorial"
 permalink: /portfolio/portfolio-18
 ---
 
-<span style="color:rgba(82,173,200,255)"> **Keys words** </span>:\
+<span style="color:rgba(82,173,200,255)"> **Keys words** </span> \
 *Optimal transport, Graph alignment* \
 <span style="color:rgba(82,173,200,255)">**Objective**</span> \\
 *The aim was to study the paper [Wasserstein-based Graph Alignment](https://arxiv.org/pdf/2003.06048) which studied the alignment of graphs of different sizes in a soft way using optimal transport methods. I re-implemented the paper from scratch as the code was not available.*\

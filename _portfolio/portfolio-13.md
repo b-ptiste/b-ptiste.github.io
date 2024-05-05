@@ -5,7 +5,7 @@ type: "Tutorial"
 permalink: /portfolio/portfolio-13
 ---
 
-<span style="color:rgba(82,173,200,255)"> **Keys words** </span>: \
+<span style="color:rgba(82,173,200,255)"> **Keys words** </span> \
 *Self-supervised (MAE, SAM, DiNOv2, Grounding DiNO), Semi Supervised, few shot, instance segmentation, medical imaging* \
 <span style="color:rgba(82,173,200,255)">**Objective**</span> \
 *This data challenge aims to create a highly accurate model for automatically segmenting anatomical structures and tumors in high-resolution 3D CT scan images of the human body. What makes this challenge unique is that the model does not need prior knowledge of the specific organs or tumors present, and the labeled data does not fully cover all possible anatomical structures. This requires the model to generalize based on shape recognition rather than semantic understanding. Moreover, the challenge is compounded by partially labeled datasets and a pool of unlabeled data for unsupervised training, making it a complex task that combines off-topic learning, few-shot learning, and semi-supervised learning. We tested differents methods with for instance self-supervised for MaskRCNN (DiNOv2, MAE, SAM), semi-supervised with pseudo labelling.*\

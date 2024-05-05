@@ -5,7 +5,7 @@ type: "Tutorial"
 permalink: /portfolio/portfolio-14
 ---
 
-<span style="color:rgba(82,173,200,255)"> **Keys words** </span>:\
+<span style="color:rgba(82,173,200,255)"> **Keys words** </span> \
 *Generative Model (VAE), Adversarial black/white box attack, probabilistic graphical models* \
 <span style="color:rgba(82,173,200,255)">**Objective**</span> \\
 *The article "[Are Generative Classifiers More Robust to Adversarial Attacks?](https://arxiv.org/pdf/1802.06552)" investigates the robustness of deep neural network classifiers against adversarial attacks. The focus is on the comparison between generative classifiers, which model the conditional distribution of labels given inputs, and discriminative classifiers. The authors propose the deep Bayes classifier, which is an improvement over the classical naive Bayes, using conditional deep generative models. We re-implemented the 7 different models from scratch for the MNIST, FashionMNIST and SVHN datasets. We then implemented a white box attack $l_{\infty}$ and a black box attack zoo. We then tested the generative models versus the discriminative models.*\
