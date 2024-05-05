@@ -6,7 +6,7 @@ permalink: /portfolio/portfolio-13
 ---
 
 **Keys words**:  *Self-supervised (MAE, SAM, DiNOv2, Grounding DiNO), Semi Supervised, few shot, instance segmentation, medical imaging* \
-<span style="color:blue">**Objective**</span> \
+ \
 The aim of the project, as described in the document, is to address the advanced task of retrieving molecules using natural language descriptions as queries, introduced by the paper "Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries." This challenge involves developing a method to match textual data with molecular structures from a large database effectively.\
 <img src='/images/cup.jpg' width='20.0' height='7.0'> **Kaggle** : ranked 2/14 (22 participants)\
 <img src='/images/college_fr_im.png' width='600' height='200'> \
