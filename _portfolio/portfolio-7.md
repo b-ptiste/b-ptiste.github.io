@@ -1,6 +1,7 @@
 ---
 title: "Project details"
-excerpt: " <b> New loss implementation in Pytorch : Soft-DTW </b> <br/> <b> Keys words </b> : <i> Time Series, DTW, Pytorch </i> 
+excerpt: " <b> New loss implementation in Pytorch : Soft-DTW </b> <br/> <b> Keys words </b> : <i> Time Series, DTW, Pytorch </i>"
+collection: portfolio
 ---
 
 Sketch classification
