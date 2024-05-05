@@ -1,6 +1,6 @@
 ---
 title: "Project details"
-excerpt: " <b> Optimal Search </b> <body>
+excerpt: " <b> Optimal Search </b>
     <h2>Cybersecurity</h2>
     <ul>
         <li>Length extension attack</li>
@@ -12,8 +12,7 @@ excerpt: " <b> Optimal Search </b> <body>
         <li>Task scheduling problem with a single machine</li>
         <li>Kidney exchange program</li>
         <li>Shortest path under resource constraints</li>
-    </ul>
-</body>"
+    </ul>"
 collection: portfolio
 ---
 
