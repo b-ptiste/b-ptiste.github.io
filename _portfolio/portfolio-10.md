@@ -1,11 +1,12 @@
 ---
 title: "Personal Projects"
-excerpt: "<ul>
+excerpt: "<h2>Cybersecurity</h2>
+        <ul>
             <li> Create a website in html/css from scratch</li>
             <li> Phone Game cloning</li>
             <li> Web-Scraping </li>
             <li> Creation of bots for Instagram </li>
-          </ul>"
+        </ul>"
 collection: portfolio
 ---
 
