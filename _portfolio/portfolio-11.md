@@ -1,15 +1,12 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Multiple Instance Learning with multi-modal medical imaging
 collection: talks
 type: "Tutorial"
 permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
 ---
 
 **Keys words**:  *Self-Supervised Learning (MAE, DiNOv2), Cross Attention, Multi-modality, Medical imaging, fitunning (LoRA, Prompt tunning, adapt former), Vision Transformer* \
-<img src='/<images/mil_im.png' width='600' height='200'> \
+<img src='/images/mil_im.png' width='600' height='200'> \
 **Objective** \
 The study focuses on lymphocytosis, an increase in lymphocytes (a type of white blood cell) in the bloodstream. This condition can indicate the body's immune response to pathogens or be linked to chronic illnesses like blood cancers. Diagnosis involves microscopic examination and clinical tests. To address the reproducibility issue in diagnosis, the study uses Multi-Instance Learning, leveraging Vision Transformers' ability to capture long-distance relationships between medical images of a patient. They incorporate clinical data to create an efficient, trainable model with low computational resources through distillation and finetuning methods. \
 **Links** \
