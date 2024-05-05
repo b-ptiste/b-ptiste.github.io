@@ -20,7 +20,7 @@ Work experience
 ======
 
 * Apr. - Oct. 2024: ML Research intern at [Valeo.ai](https://valeoai.github.io/blog/)
-  Supervisor : [Spyros Gidaris](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en), [Florent BARTOCCIONI](https://scholar.google.com/citations?user=SemxkMwAAAAJ&hl=fr)
+  Supervisor : [Spyros Gidaris](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en), [Florent BARTOCCIONI](https://scholar.google.com/citations?user=SemxkMwAAAAJ&hl=fr) <br/>
   Subject : *"Tokenization from multi-camera autonomous drivin data"*
   Outcomes : (Ongoing)
 
@@ -48,7 +48,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -64,8 +64,14 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Hobbies
 ======
-* Currently signed in to 43 different slack teams
+* Handball
+  National level player (under 18 yo)
+  Uni. team coach
+  Uni. French Championship (2017 and 2020)
+* Hiking / Treking
+  GR20 (Corsica) : 10 days, 180km, 13.000 D+
+  GR10 (Pyrennees) : 4 days
