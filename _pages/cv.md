@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-<img src="/images/mva_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/ens-ps.png" alt="MVA" width="150" height="100" /> <img src="/images/insa.png" alt="MVA" width="150" height="100" />
+<img src="/images/mva_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/ens-ps.png" alt="MVA" width="200" height="133" /> <img src="/images/insa.png" alt="MVA" width="150" height="100" />
 * **M.S. MVA** ENS Paris-Saclay in research in applied mathematics and AI, Paris-Saclay University, 2024 (expected)
 * M.S. in Applied Mathematics, INSA Rennes engineering school 2023
 
@@ -32,7 +32,7 @@ Work experience
   **Subject**: *"Building segmentation and polygonalization from very high resolution satellite imagery"* \
   **Outcomes**: Creation of a new architecture based on [HRNet](https://arxiv.org/abs/1908.07919) and [Attraction field Map representation](https://arxiv.org/abs/1812.021220) which enabled us to obtain better segmentation masks, respecting the coherence constraints: segment sharing for terraced houses, polygon complexity, accuracy: 1 pixel and robustness: must work on all types of landscape.*
 
-* July. - Sept. 2022: ML Research intern at [<img src="/images/Qohash.png" alt="Qohash" width="100" height="33" />](https://qohash.com/about-us/)\
+* July. - Sept. 2022: ML Research intern at[<img src="/images/Qohash.png" alt="Qohash" width="100" height="33" />](https://qohash.com/about-us/)\
   **Supervisor**: [Julien Keutchayan](https://dblp.org/pid/202/2872.html) \
   **Subject**: *"Insider threat detection within companies using temporal graphs"* \
   **Outcomes**: Creation of a new architecture to detect malicious activity in a company. Malicious activity can be characterised as much by a one-off action as by a series of incoherent actions. It also depends on the person's role within the company. The solution was to create a [temporal graph of activity](https://github.com/graphaware/neo4j-timetree) for each employee and then, at a higher level, to introduce a graph activity for the company. Malicious activity is then detected in a self-supervised manner using an auto-encoder with graph activity embeddings. 
