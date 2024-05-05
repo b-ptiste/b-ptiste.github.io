@@ -12,7 +12,7 @@ redirect_from:
 <span style="color:rgba(82,173,200,255)"> Education </span>
 ======
 
-<img src="/images/mva_logo.png" alt="MVA" width="180" height="133" /> <img src="/images/ens-ps.png" alt="MVA" width="280" height="200" /> <img src="/images/insa.png" alt="MVA" width="200" height="133" />
+<img src="/images/mva_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/ens-ps.png" alt="MVA" width="250" height="83" /> <img src="/images/insa.png" alt="MVA" width="150" height="100" />
 
 
 * <span style="color:rgba(82,173,200,255)">**[M.S. MVA ENS Paris-Saclay](https://www.master-mva.com/)** for research in applied mathematics and AI, Paris-Saclay University, 2024 (expected)</span> \
