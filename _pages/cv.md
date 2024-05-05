@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+<img src="/images/mva_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/ens-ps.png" alt="MVA" width="150" height="100" /> <img src="/images/insa.png" alt="MVA" width="150" height="100" />
 * **M.S. MVA** ENS Paris-Saclay in research in applied mathematics and AI, Paris-Saclay University, 2024 (expected)
 * M.S. in Applied Mathematics, INSA Rennes engineering school 2023
 
