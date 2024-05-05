@@ -11,6 +11,12 @@ redirect_from:
 <img src="/images/mva_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/valeo_logo.png" alt="Valeo.ai" width="100" height="66" />
 
 
+Bio
+======
+
+I am currently an ML research intern at [Valeo.ai](https://valeoai.github.io/blog/) as part of my **MVA Master's degree at ENS Paris-Saclay** in France. I am studying multi-camera tokenisation methods applied to the field of autonomous cars. I like to work on open-source projects involving as little human supervision as possible and am therefore very interested in self-supervised or few-shot learning methods. Thanks to my last research experiences at [Valeo.ai](https://valeoai.github.io/blog/) and [Airbus DS](https://www.airbus.com/fr/space/space-made-in-france-by-airbus) I have acquired strong knowledge in the field of computer vision which I would like to apply on multi-modal learning topics involving vision, text, graphs and all other modalities.
+
+
 Resume
 ======
 
@@ -27,11 +33,6 @@ News
 - *News* (`12/02/2023`): Join **Airbus DS research team** for a 6-month intership on *"Building segmentation and polygonalization from very high resolution satellite imagery"* under the supervision of Alexandre Mayerowitz.
 
 - *News* (`01/07/2022`): Join **Qohash research team** for a 3-month intership on *"Insider threat detection within companies using temporal graphs"* under the supervision of [Julien Keutchayan](https://dblp.org/pid/202/2872.html).
-
-Bio
-======
-
-I am currently an ML research intern at [Valeo.ai](https://valeoai.github.io/blog/) as part of my **MVA Master's degree at ENS Paris-Saclay** in France. I am studying multi-camera tokenisation methods applied to the field of autonomous cars. I like to work on open-source projects involving as little human supervision as possible and am therefore very interested in self-supervised or few-shot learning methods. Thanks to my last research experiences at [Valeo.ai](https://valeoai.github.io/blog/) and [Airbus DS](https://www.airbus.com/fr/space/space-made-in-france-by-airbus) I have acquired strong knowledge in the field of computer vision which I would like to apply on multi-modal learning topics involving vision, text, graphs and all other modalities.
 
 
 Challenges
