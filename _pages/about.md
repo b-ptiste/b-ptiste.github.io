@@ -43,7 +43,7 @@ News
 
 Challenges
 ======
-- 🦠 [Molecule retrieval with natural language](/portfolio/portfolio-12/) (Polytechnique) \
+- 🦠 [Molecule retrieval with natural language](/portfolio/portfolio-12) (Polytechnique) \
 <img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 1/52 (122 participants)
 - 🖋 [Sketch classification](/portfolio/portfolio-15) (ENS Ulm)  \
 <img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 4/59
