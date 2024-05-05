@@ -36,7 +36,12 @@ Work experience
   **Subject**: *"Insider threat detection within companies using temporal graphs"* \
   **Outcomes**: Creation of a new architecture to detect malicious activity in a company. Malicious activity can be characterised as much by a one-off action as by a series of incoherent actions. It also depends on the person's role within the company. The solution was to create a [temporal graph of activity](https://github.com/graphaware/neo4j-timetree) for each employee and then, at a higher level, to introduce a company graph. Malicious activity is then detected in a self-supervised manner using an auto-encoder. 
 
-* July. - Aug.: ML intern at [Wizdeo](https://www.wizdeo.com/en/about-us) \
+* Feb. - May 2021: Research assistant [Wizdeo](https://www.wizdeo.com/en/about-us) \
+  **Supervisor**: [Jordan Tremoureux](https://www.linkedin.com/in/jordantremoureux/?originalSubdomain=fr) \
+  **Subject**: *"Workload planning for a professional women's handball team based on data from various sensors"* \
+  **Outcomes**: Statistics and data visualization.
+
+* July. - Aug. 2021: ML intern at [Wizdeo](https://www.wizdeo.com/en/about-us) \
   **Supervisor**: [Jordan Tremoureux](https://www.linkedin.com/in/jordantremoureux/?originalSubdomain=fr) \
   **Subject**: *"Predicting the cost of a YouTube influencer sponsorship based on key performance indicators"* \
   **Outcomes**: Data manipulation in SQL tables or Mongo databases, followed by data cleaning, visualisation and spline regression finetuning to obtain an explainable model.
