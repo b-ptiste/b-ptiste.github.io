@@ -1,6 +1,6 @@
 ---
 title: "Project details"
-excerpt: " <b> Semi/Self-Supervised, Few-shot, novelty instance segmentation </b> <br/> <b> Keys words </b> : <i> Self-supervised (MAE, SAM, DiNOv2, Grounding DiNO), Semi Supervised, few shot, instance segmentation, medical imaging  </i> <br/> <img src='/images/cup.jpg' width='20.0' height='7.0'> <b> Kaggle <b/> : ranked 2/14 (22 participants) <br/> <img src='/images/college_fr_im.png' width='400' height='133'>"
+excerpt: " <b> Semi/Self-Supervised, Few-shot, novelty instance segmentation </b> <br/> <b> Keys words </b> : <i> Self-supervised (MAE, SAM, DiNOv2, Grounding DiNO), Semi Supervised, few shot, instance segmentation, medical imaging  </i> <br/> <img src='/images/cup.jpg' width='20.0' height='7.0'> <b> Kaggle <b/> : ranked 2/14 (22 participants) <br/> <img src='/images/college_fr_im.png' width='600' height='200'>"
 collection: portfolio
 ---
 
