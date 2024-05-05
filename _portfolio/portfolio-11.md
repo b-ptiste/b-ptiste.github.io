@@ -1,5 +1,5 @@
 ---
-title: "Multiple Instance Learning with multi-modal medical imaging
+title: "Multiple Instance Learning with multi-modal medical imaging"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2013-03-01-tutorial-1
