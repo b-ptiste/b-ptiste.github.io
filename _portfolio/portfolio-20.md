@@ -1,26 +1,17 @@
 ---
-title: "Project details"
-excerpt: "<h2>Cybersecurity</h2>
-        <ul>
-            <li>Length extension attack</li>
-            <li>Klein attack implementation</li>
-        </ul>
-        <h2>Optimal Search</h2>
-        <ul>
-            <li>Task scheduling problem with a single machine</li>
-            <li>Kidney exchange program</li>
-            <li>Shortest path under resource constraints</li>
-        </ul>"
-collection: portfolio
+title: "Other projects"
+collection: talks
+type: "Tutorial"
+permalink: /portfolio/portfolio-20
 ---
 
-Wasserstein Soft Graph Alignment
 
-Objective
-======
+* Cybersecurity \
+    Length extension attack \
+    Klein attack implementation
 
+* Optimal Search \
+    Task scheduling problem with a single machine \
+    Kidney exchange program \
+    Shortest path under resource constraints
 
-Links
-======
-
-[<img src="/images/GitHub.png" alt="GitHub" width="37.5" height="12.5" />](https://github.com/b-ptiste/Composed-Image-Retrieval) [<img src="/images/report_icone.png" alt="Report" width="37.5" height="12.5" />](https://drive.google.com/file/d/1TSedD1iCNDuQ77YY0pboVanj45ZuREN6/view?usp=drive_link) [<img src="/images/class_icone.png" alt="Report" width="37.5" height="12.5" />](https://imagine.enpc.fr/~varolg/teaching/recvis23/)
