@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Baptiste's Academic Website"
 title_separator          : "-"
-name                     : &name "CALLARD Baptiste"
+name                     : &name "CALLARD Baptiste 🤖"
 description              : &description "personal description"
 url                      : https://b-ptiste.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
