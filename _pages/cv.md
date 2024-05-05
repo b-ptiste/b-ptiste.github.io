@@ -22,7 +22,7 @@ CV
 Work experience
 ======
 
-* Apr. - Oct. 2024: ML Research intern at [<img src="/images/valeo_logo.png" alt="Valeo.ai" width="60" height="20" />](https://valeoai.github.io/blog/) (Valeo.ai) \
+* Apr. - Oct. 2024: ML Research intern at [<img src="/images/valeo_logo.png" alt="Valeo.ai" width="60" height="20" />](https://valeoai.github.io/blog/) ([Team Valeo.ai](https://valeoai.github.io/blog/) ) \
   **Supervisor**: [Spyros Gidaris](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en), [Florent BARTOCCIONI](https://scholar.google.com/citations?user=SemxkMwAAAAJ&hl=fr) \
   **Subject**: *"Tokenization from multi-camera autonomous drivin data"* \
   **Outcomes**: (Ongoing)
@@ -35,7 +35,7 @@ Work experience
 * July. - Sept. 2022: ML Research intern at [<img src="/images/Qohash.png" alt="Qohash" width="100" height="33" />](https://qohash.com/about-us/)\
   **Supervisor**: [Julien Keutchayan](https://dblp.org/pid/202/2872.html) \
   **Subject**: *"Insider threat detection within companies using temporal graphs"* \
-  **Outcomes**: Creation of a new architecture to detect malicious activity in a company. Malicious activity can be characterised as much by a one-off action as by a series of incoherent actions. It also depends on the person's role within the company. The solution was to create a [temporal graph of activity](https://github.com/graphaware/neo4j-timetree) for each employee and then, at a higher level, to introduce a company graph. Malicious activity is then detected in a self-supervised manner using an auto-encoder. 
+  **Outcomes**: Creation of a new architecture to detect malicious activity in a company. Malicious activity can be characterised as much by a one-off action as by a series of incoherent actions. It also depends on the person's role within the company. The solution was to create a [temporal graph of activity](https://github.com/graphaware/neo4j-timetree) for each employee and then, at a higher level, to introduce a graph activity for the company. Malicious activity is then detected in a self-supervised manner using an auto-encoder with graph activity embeddings. 
 
 * Feb. - May 2021: Research assistant at [<img src="/images/m2s.png" alt="m2s" width="40" height="13.33" />](https://m2slab.com/) (Lab. M2S at ENS Rennes)\
   **Collaborator**: [Jack Prioux](https://scholar.google.com/citations?user=ebUlLVQAAAAJ&hl=fr), [Fabien Renouf](https://www.linkedin.com/in/fabien-renouf/) \
