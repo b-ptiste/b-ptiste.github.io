@@ -1,20 +1,10 @@
 ---
 title: "Project details"
-excerpt: "<h2>Cybersecurity</h2>
-        <ul>
-            <li>Length extension attack</li>
-            <li>Klein attack implementation</li>
-        </ul>
-        <h2>Optimal Search</h2>
-        <ul>
-            <li>Task scheduling problem with a single machine</li>
-            <li>Kidney exchange program</li>
-            <li>Shortest path under resource constraints</li>
-        </ul>"
+excerpt: " <b> Reinforcement Learning in sparse reward environment : mountain car </b> <br/> <b> Keys words </b> : <i> Reinforcement Learning </i> <br/> <img src='/images/RL/env.png' width='400' height='133'>"
 collection: portfolio
 ---
 
-Wasserstein Soft Graph Alignment
+Reinforcement Learning in sparse environment : mountain car
 
 Objective
 ======
@@ -23,4 +13,5 @@ Objective
 Links
 ======
 
-[<img src="/images/GitHub.png" alt="GitHub" width="37.5" height="12.5" />](https://github.com/b-ptiste/Composed-Image-Retrieval) [<img src="/images/report_icone.png" alt="Report" width="37.5" height="12.5" />](https://drive.google.com/file/d/1TSedD1iCNDuQ77YY0pboVanj45ZuREN6/view?usp=drive_link) [<img src="/images/class_icone.png" alt="Report" width="37.5" height="12.5" />](https://imagine.enpc.fr/~varolg/teaching/recvis23/)
+<!-- [<img src="/images/GitHub.png" alt="GitHub" width="37.5" height="12.5" />](https://github.com/b-ptiste/Composed-Image-Retrieval)  -->
+[<img src="/images/report_icone.png" alt="Report" width="37.5" height="12.5" />](https://drive.google.com/file/d/1PPeQ6wlFCK0lwDJYm-QU2YlYAAb1SmI7/view?usp=drive_link) [<img src="/images/class_icone.png" alt="Report" width="37.5" height="12.5" />](https://www.master-mva.com/cours/reinforcement-learning-2/)
