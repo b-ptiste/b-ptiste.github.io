@@ -30,7 +30,7 @@ News
 
 - *News* (`15/04/2024`): Join **Valeo.ai research team** for a 6-month intership til October on *"Tokenization from multi-camera autonomous drivin data"* under the supervision of [Florent BARTOCCIONI](https://scholar.google.com/citations?user=SemxkMwAAAAJ&hl=fr) and [Spyros Gidaris](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en).
 
-- *News* (`12/02/2023`): Join **Airbus DS research team** for a 6-month intership on *"Building segmentation and polygonalization from very high resolution satellite imagery"* under the supervision of Alexandre Mayerowitz.
+- *News* (`12/02/2023`): Join **Airbus DS research team** for a 6-month intership on *"Building segmentation and polygonalization from very high resolution satellite imagery"* under the supervision of [Alexandre Mayerowitz](https://www.linkedin.com/in/alexandre-mayerowitz-393a45b7/?originalSubdomain=fr).
 
 - *News* (`01/07/2022`): Join **Qohash research team** for a 3-month intership on *"Insider threat detection within companies using temporal graphs"* under the supervision of [Julien Keutchayan](https://dblp.org/pid/202/2872.html).
 

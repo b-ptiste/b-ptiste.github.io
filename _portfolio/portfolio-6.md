@@ -1,6 +1,6 @@
 ---
 title: "Project details"
-excerpt: " <b> Video Retreival using multi-modal queries (images and text) </b> <br/> <b> Keys words </b> : <i> BLIP, Explainability of Attention Mechanism, Hard-Negative/Filtering Sampling </i> <br/> <img src='/images/CoVr.png' width='600' height='200'>"
+excerpt: " <b> Video Retreival using multi-modal queries (images and text) </b> <br/> <b> Keys words </b> : <i> BLIP, Explainability of Attention Mechanism, Hard-Negative/Filtering Sampling </i> <br/> <img src='/images/recvis.png' width='600' height='200'>"
 collection: portfolio
 ---
 
