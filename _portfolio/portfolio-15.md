@@ -6,7 +6,7 @@ permalink: /portfolio/portfolio-15
 ---
 
 <span style="color:rgba(82,173,200,255)"> **Keys words** </span>: \
-*Vision Transformer, Finethunning, Data Augmentation * \
+*Vision Transformer, Finethunning, Data Augmentation* \
 <!-- <span style="color:rgba(82,173,200,255)">**Objective**</span> \\
 ...\ -->
 <img src='/images/cup.jpg' width='20.0' height='7.0'> **Kaggle** : ranked 4/59\
