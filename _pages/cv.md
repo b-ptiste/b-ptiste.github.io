@@ -13,10 +13,6 @@ Education
 ======
 <img src="/images/mva_logo.png" alt="MVA" width="200" height="133" /> <img src="/images/ens-ps.png" alt="MVA" width="300" height="200" /> <img src="/images/insa.png" alt="MVA" width="200" height="133" />
 
-CV
-======
-<a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/images/resume.png" alt="Resume" width="300" height="100" /></a>
-
 
 * <span style="color:rgba(82,173,200,255)">**[M.S. MVA ENS Paris-Saclay](https://www.master-mva.com/)** for research in applied mathematics and AI, Paris-Saclay University, 2024 (expected)</span> \
   Currently 17.7/20 (GPA : 4.0/4.0) \
@@ -55,19 +51,19 @@ CV
     Introduction to finite differences
 
   * <span style="color:rgba(82,173,200,255)">2020 - 2021</span> : \
-    Inferential Statistics (R) \
-    Linear Regression Models (R) \
+    Inferential Statistics, Linear Regression Models, Data Analysis - PCA, CFA, MCA  (R) \
     Differential Equation Modelling (Matlab) \
-    Probability \
-    Continuous Optimization (Matlab) \
-    Discrete Optimization (Python) \
-    Data Analysis - PCA, CFA, MCA (R) \
+    Continuous Optimization (Matlab), Discrete Optimization \
     Markovian Models (R, Python) \
-    Data Base \
     Numerical Methods of Linear, Non-Linear (Python/Matlab) \
     C language
 
-<span style="color:rgba(82,173,200,255)">Work experience</span>
+<span style="color:rgba(82,173,200,255)"> CV </span>
+======
+<a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/images/resume.png" alt="Resume" width="300" height="100" /></a>
+
+
+<span style="color:rgba(82,173,200,255)">Work experience
 ======
 
 * <span style="color:rgba(82,173,200,255)">Apr. - Oct. 2024</span>: ML Research intern at [<img src="/images/valeo_logo.png" alt="Valeo.ai" width="60" height="20" />](https://valeoai.github.io/blog/) ([Team Valeo.ai](https://valeoai.github.io/blog/)) \
@@ -132,10 +128,10 @@ Teaching
   
 <span style="color:rgba(82,173,200,255)">Hobbies</span>
 ======
-* <span style="color:rgba(82,173,200,255)">**Handball**</span> \
-  National level player (under 18 yo) \
+* <span style="color:rgba(82,173,200,255)">Handball</span> \
+  National level player (under 18 y.o.) \
   Uni. team coach \
   Uni. French Championship (2017 and 2020) 
-* <span style="color:rgba(82,173,200,255)">**Hiking / Treking**</span> \ 
+* <span style="color:rgba(82,173,200,255)">Hiking / Treking</span> \ 
   GR20 (Corsica) : 10 days, 180km, 13.000 D+  \
   GR10 (Pyrennees) : 4 days 
