@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/images/resume.png" alt="Resume" width="300" height="100" /></a>
-
 Education
 ======
 * **M.S. MVA** ENS Paris-Saclay in research in applied mathematics and AI, Paris-Saclay University, 2024 (expected)
 * M.S. in Applied Mathematics, INSA Rennes engineering school 2023
+
+CV
+======
+<a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/images/resume.png" alt="Resume" width="300" height="100" /></a>
 
 Work experience
 ======
