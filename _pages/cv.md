@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-<img src="/images/mva_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/ens-ps.png" alt="MVA" width="300" height="200" /> <img src="/images/insa.png" alt="MVA" width="150" height="100" />
+<img src="/images/mva_logo.png" alt="MVA" width="200" height="133" /> <img src="/images/ens-ps.png" alt="MVA" width="300" height="200" /> <img src="/images/insa.png" alt="MVA" width="200" height="133" />
 
 CV
 ======
 <a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/images/resume.png" alt="Resume" width="300" height="100" /></a>
 
 
-* **M.S. MVA** ENS Paris-Saclay for research in applied mathematics and AI, Paris-Saclay University, 2024 (expected)
+* **M.S. MVA ENS Paris-Saclay** for research in applied mathematics and AI, Paris-Saclay University, 2024 (expected)
   * Semester 1 : \
     Convex optimization and applications in machine learning (by A. D'ASPREMONT) \
     Object recognition and computer vision (by G. VAROL, I. LAPTEV, J. PONCE, C. SCHMID, J. SIVIC, M. AUBRY) \
