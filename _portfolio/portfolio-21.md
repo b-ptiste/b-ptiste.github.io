@@ -6,6 +6,6 @@ permalink: /portfolio/portfolio-21
 ---
 
 
-* Create a website in html/css from scratch \
-* Phone Game cloning \
+* Create a website in html/css from scratch 
+* Phone Game cloning 
 * Web-Scraping / Creation of bots for Instagram
