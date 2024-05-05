@@ -1,6 +1,6 @@
 ---
 title: "Project details"
-excerpt: " <b> New loss implementation in Pytorch : Soft-DTW </b> <br/> <b> Keys words </b> : <i> Time Series, DTW, Pytorch </i> <br/> <img src='/images/ts/DTW.png' width='300' height='200'><img src='/images/ts/barycentre_1.png' width='300' height='200'>"
+excerpt: " <b> New loss implementation in Pytorch : Soft-DTW </b> <br/> <b> Keys words </b> : <i> Time Series, DTW, Pytorch </i> <br/> <img src='/images/ts/DTW.png' width='300' height='200'><img src='/images/ts/barycentre_1.png' width='200' height='133'>"
 collection: portfolio
 ---
 
