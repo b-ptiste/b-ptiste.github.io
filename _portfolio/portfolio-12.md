@@ -8,7 +8,7 @@ permalink: /portfolio/portfolio-12
 <span style="color:rgba(82,173,200,255)"> **Keys words** </span> \
 *Graph ML, LLM, Contrastive Learning, Multi-Modal* \
 <span style="color:rgba(82,173,200,255)">**Objective**</span> \
-*The aim of the project, as described in the document, is to address the advanced task of retrieving molecules using natural language descriptions as queries, introduced by the paper "Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries." This challenge involves developing a method to match textual data with molecular structures from a large database effectively.*\
+*The aim of the project, as described in the document, is to address the advanced task of retrieving molecules using natural language descriptions as queries, introduced by the paper [Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries](https://aclanthology.org/2021.emnlp-main.47/). This challenge involves developing a method to match textual data with molecular structures from a large database effectively.*\
 <img src='/images/cup.jpg' width='20.0' height='7.0'> <span style="color:rgba(82,173,200,255)"> **Kaggle** </span> : ranked 1/52 (122 participants)\
 <img src='/images/altegrad/altegrad_im.png' width='400' height='133'> <img src='/images/altegrad/scores.png' width='400' height='133'> \
 <span style="color:rgba(82,173,200,255)"> **Links** </span> \
