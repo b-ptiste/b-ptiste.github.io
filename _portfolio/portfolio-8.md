@@ -1,6 +1,11 @@
 ---
 title: "Project details"
-excerpt: " <b> Wasserstein-Graph-Alignment </b> <br/> <b> Keys words </b> : <i> Optimal transport, Graph alignment </i> <br/> <video width="320" height="240" controls> <source src="/images/OT.mp4" type="video/mp4"> Your browser does not support the video tag. </video>"
+excerpt: " <b>Wasserstein-Graph-Alignment</b><br/>
+<b>Keywords</b>: <i>Optimal transport, Graph alignment</i><br/>
+<video width="320" height="240" controls>
+  <source src="/images/OT.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>"
 collection: portfolio
 ---
 
