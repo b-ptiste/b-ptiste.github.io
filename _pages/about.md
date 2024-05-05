@@ -26,7 +26,7 @@ News
 
 - *News* (`12/02/2023`): Join **Airbus DS research team** for a 6-month intership on *"Building segmentation and polygonalization from very high resolution satellite imagery"* under the supervision of Alexandre Mayerowitz.
 
-- *News* (`01/07/2022`): Join **Qohash research team** for a 3-month intership on *"Insider threat detection"* under the supervision of [Julien Keutchayan](https://dblp.org/pid/202/2872.html).
+- *News* (`01/07/2022`): Join **Qohash research team** for a 3-month intership on *"Insider threat detection within companies using temporal graphs"* under the supervision of [Julien Keutchayan](https://dblp.org/pid/202/2872.html).
 
 Bio
 ======
