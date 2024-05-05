@@ -1,6 +1,6 @@
 ---
 title: "Project details"
-excerpt: " <b> Molecule Retrieval with Natural Language </b> <br/> <b> Keys words </b> : <i> Graph ML, LLM, Contrastive Learning, Multi-Modal </i> <br/> <img src='/images/cup.jpg' width='20.0' height='7.0'> <b> Kaggle <b/> : ranked 1/52 (122 participants) <br/> <img src='/images/altegrad_im.png' width='400' height='133'>"
+excerpt: " <b> Molecule Retrieval with Natural Language </b> <br/> <b> Keys words </b> : <i> Graph ML, LLM, Contrastive Learning, Multi-Modal </i> <br/> <img src='/images/cup.jpg' width='20.0' height='7.0'> <b> Kaggle <b/> : ranked 1/52 (122 participants) <br/> <img src='/images/altegrad/altegrad_im.png' width='400' height='133'> <img src='/images/altegrad/scores.png' width='400' height='133'>"
 collection: portfolio
 ---
 
