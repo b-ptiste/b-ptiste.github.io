@@ -16,7 +16,7 @@ redirect_from:
 
 
 * <span style="color:rgba(82,173,200,255)">**[M.S. MVA ENS Paris-Saclay](https://www.master-mva.com/)** for research in applied mathematics and AI, Paris-Saclay University, 2024 (expected)</span> \
-  Currently 18.6/20 (GPA : 4.0/4.0) \
+  18.20/20 (GPA : 4.0/4.0) \
   * <span style="color:rgba(82,173,200,255)">Semester 1 </span>: \
     Convex optimization and applications in machine learning (by A. D'ASPREMONT) \
     Object recognition and computer vision (by G. VAROL, I. LAPTEV, J. PONCE, C. SCHMID, J. SIVIC, M. AUBRY) \
@@ -35,7 +35,7 @@ redirect_from:
     Graph in Machine Learning (by Google DeepMind) 
 
 * <span style="color:rgba(82,173,200,255)">**[M.S. in Applied Mathematics](https://www.insa-rennes.fr/ma.html)**, INSA Rennes engineering school, 2023</span> \
-  GPA : 4.0/4.0 (valedictorian) \
+  16.50/20.0 (GPA : 4.0/4.0 | valedictorian) \
   * <span style="color:rgba(82,173,200,255)">2022 - 2023</span> : \
     Uncertainty and sensitivity analysis in engineering\
     Optimization under uncertainty\
