@@ -50,7 +50,9 @@ redirect_from:
   **Supervisor**: [Jordan Tremoureux](https://www.linkedin.com/in/jordantremoureux/?originalSubdomain=fr) \
   **Subject**: *"Predicting the cost of a YouTube influencer sponsorship based on key performance indicators"* \
   **Outcomes**: Data manipulation in SQL tables or Mongo databases, followed by data cleaning, visualisation and spline regression finetuning to obtain an explainable model.
-  
+
+<span style="color:rgba(65, 70, 75, 1)">Education
+======
 * <span style="color:rgba(65, 70, 75, 1)">**[M.S. MVA ENS Paris-Saclay](https://www.master-mva.com/)** for research in applied mathematics and AI, Paris-Saclay University, 2024 (expected)</span> \
   18.20/20 (GPA : 4.0/4.0) \
   * <span style="color:rgba(65, 70, 75, 1)">Semester 1 </span>: \
@@ -70,7 +72,7 @@ redirect_from:
     Reinforcement Learning (by E. Rachelson, E. Kaufmann) \
     Graph in Machine Learning (by Google DeepMind) 
 
-* <span style="color:rgba(65, 70, 75, 1)">**[M.S. in Applied Mathematics](https://www.insa-rennes.fr/ma.html)**, INSA Rennes engineering school, 2023</span> \
+<!-- * <span style="color:rgba(65, 70, 75, 1)">**[M.S. in Applied Mathematics](https://www.insa-rennes.fr/ma.html)**, INSA Rennes engineering school, 2023</span> \
   16.50/20.0 (GPA : 4.0/4.0 | valedictorian) \
   * <span style="color:rgba(65, 70, 75, 1)">2022 - 2023</span> : \
     Uncertainty and sensitivity analysis in engineering\
@@ -93,7 +95,7 @@ redirect_from:
     Continuous Optimization (Matlab), Discrete Optimization \
     Markovian Models (R, Python) \
     Numerical Methods of Linear, Non-Linear (Python/Matlab) \
-    C language
+    C language -->
 <!-- <span style="color:rgba(65, 70, 75, 1)"> Skills </span>
 ======
 * <span style="color:rgba(65, 70, 75, 1)"> Programming </span> \
