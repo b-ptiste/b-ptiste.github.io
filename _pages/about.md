@@ -15,7 +15,7 @@ redirect_from:
 Bio
 ======
 
-I am currently an ML research intern at [Raidium](https://www.raidium.eu/) where I work on adapting large-scale vision–language and self-supervised foundation models to the medical domain. My current research focuses on bridging natural and medical imaging by extending self-supervised learning to CT and MRI data, with the goal of learning transferable, robust representations for clinical tasks. I develop also contrastive reports to 3D MRI/CT volumes pre-training as a backbone for report generation.
+I am currently an ML research at [Raidium](https://www.raidium.eu/) where I work on adapting large-scale vision–language and self-supervised foundation models to the medical domain. My current research focuses on bridging natural and medical imaging by extending self-supervised learning to CT and MRI data, with the goal of learning transferable, robust representations for clinical tasks. I develop also contrastive reports to 3D MRI/CT volumes pre-training as a backbone for report generation.
 
 Previously, I interned at [Valeo.ai](https://valeoai.github.io/blog/) as part of my **MVA Master's degree at ENS Paris-Saclay** in France. I studied multi-camera tokenisation methods applied to the field of autonomous cars. I am genuinely motivated by research that bridges theory and practice, bringing theoretical advances into real-world applications.
 
