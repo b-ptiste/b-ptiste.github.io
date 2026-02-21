@@ -25,7 +25,7 @@ Previously, I interned at [Valeo.ai](https://valeoai.github.io/blog/) as part of
 News
 ======
 
-- *News* 📄 (`08/09/2025`): Curia new SOTA MRI/CT model is out [arxiv](https://arxiv.org/abs/2509.06830). 
+- *News* 📄 (`08/09/2025`): Curia new family of SOTA VIT radiological foundation model for MRI/CT images is out [arxiv](https://arxiv.org/abs/2509.06830). 
 
 - *News* 🩻 (`10/03/2025`): Joined Raidium as a permanent ML Researcher. 
 
