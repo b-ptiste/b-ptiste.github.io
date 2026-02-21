@@ -12,7 +12,7 @@ redirect_from:
 <span style="color:rgba(65, 70, 75, 1)"> Education </span>
 ======
 
-<img src="/images/mva_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/ens-ps.png" alt="MVA" width="250" height="83" /> <img src="/images/insa.png" alt="MVA" width="150" height="100" />
+<img src="/images/mva_logo.png" alt="MVA" width="150" height="100" />
 
 
 <!-- <span style="color:rgba(65, 70, 75, 1)"> CV </span>
