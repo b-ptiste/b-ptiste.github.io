@@ -61,11 +61,11 @@ GitHub
 
 
 **Data Challenge Achievements**
-- **Text-to-Molecule** (Polytechnique) – 🏆 1st out of 52
-- **Video Retrieval** (University of Klagenfurt) – 🏆 1st out of 5
-- **Few-Shot Novelty Instance Segmentation** (Collège de France) – 🥈 2nd out of 20
-- **Sketch Classification** (ENS Ulm) – 🏅 4th out of 59
-- **Multiple Instance Learning** (CentraleSupélec - Université Paris-Saclay) – 🏅 16th out of 39
+- [**Text-to-Molecule**](/portfolio/portfolio-12) (Polytechnique) – 🏆 1st out of 52
+- [**Video Retrieval**](https://github.com/b-ptiste/video-search) (University of Klagenfurt) – 🏆 1st out of 5
+- [**Few-Shot Novelty Instance Segmentation**](/portfolio/portfolio-13) (Collège de France) – 🥈 2nd out of 20
+- [**Sketch Classification**](/portfolio/portfolio-15) (ENS Ulm) – 🏅 4th out of 59
+- [**Multiple Instance Learning**](/portfolio/portfolio-11) (CentraleSupélec - Université Paris-Saclay) – 🏅 16th out of 39
 
 **Projects**
 
