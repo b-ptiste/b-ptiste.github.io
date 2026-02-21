@@ -12,11 +12,6 @@ redirect_from:
 
 
 
-Highlight
-======
-I want like to contribute to a research project in a cutting-edge environment in Multi-modality and Computer Vision topics. **Please feel free to contact me** via [📩](mailto:baptcallard@gmail.com).
-
-
 Bio
 ======
 
