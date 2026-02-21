@@ -52,4 +52,15 @@ Challenges
 - 👨‍🔬 [Semi/Self-Supervised, Few-shot, novelty instance segmentation](/portfolio/portfolio-13) (Collège de France) \
 <img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 2/14 (22 participants)
 - 👨‍🔬 [Multi-Modal Multiple Instance Learning](/portfolio/portfolio-11) (CentraleSupélec - Université Paris-Saclay) \
-<img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 16/39 (78 participants) 
+<img src="/images/cup.jpg" alt="cup" width="20" height="6.66" /> **rank** : 16/39 (78 participants)
+
+GitHub
+======
+[**@b-ptiste**](https://github.com/b-ptiste) — Open-source projects, ML/CV code, and data challenge repos. Check my [GitHub profile](https://github.com/b-ptiste) for more.
+
+<a href="https://github.com/b-ptiste">
+  <img src="https://github-readme-stats.vercel.app/api?username=b-ptiste&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats" width="400" />
+</a>
+<a href="https://github.com/b-ptiste">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-ptiste&layout=compact&hide_border=true&theme=default" alt="Top languages" width="350" />
+</a>
