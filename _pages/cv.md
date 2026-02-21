@@ -23,10 +23,8 @@ redirect_from:
 <span style="color:rgba(82,173,200,255)">Work experience
 ======
 
-* <span style="color:rgba(82,173,200,255)">Apr. - Oct. 2024</span>: ML Research intern at [<img src="/images/valeo_logo.png" alt="Valeo.ai" width="60" height="20" />](https://valeoai.github.io/blog/) ([Team Valeo.ai](https://valeoai.github.io/blog/)) \
-  **Supervisor**: [Spyros Gidaris](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en), [Florent BARTOCCIONI](https://scholar.google.com/citations?user=SemxkMwAAAAJ&hl=fr) \
-  **Subject**: *"Tokenization from multi-camera autonomous drivin data"* \
-  **Outcomes**: (Ongoing)
+* <span style="color:rgba(82,173,200,255)">Apr. - Oct. 2024</span>: ML Research intern at [<img src="/images/raidium.png" alt="Raidium" width="60" height="20" />](https://www.raidium.eu/agi-research/#all-publications) \
+  **Role**: *"Pre-training model at scale with self-supervision learning and text-image contrastive learning"* \)
 
 * <span style="color:rgba(82,173,200,255)">Apr. - Oct. 2024</span>: ML Research intern at [<img src="/images/valeo_logo.png" alt="Valeo.ai" width="60" height="20" />](https://valeoai.github.io/blog/) ([Team Valeo.ai](https://valeoai.github.io/blog/)) \
   **Supervisor**: [Spyros Gidaris](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en), [Florent BARTOCCIONI](https://scholar.google.com/citations?user=SemxkMwAAAAJ&hl=fr) \
