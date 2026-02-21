@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<img src="/images/mva_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/valeo_logo.png" alt="Valeo.ai" width="100" height="66" />
+<img src="/images/mva_logo.png" alt="MVA" width="150" height="100" /> <img src="/images/raidium.png" alt="Valeo.ai" width="100" height="66" />
 
 
 
@@ -20,17 +20,19 @@ I want like to contribute to a research project in a cutting-edge environment in
 Bio
 ======
 
-I am currently an ML research intern at [Valeo.ai](https://valeoai.github.io/blog/) as part of my **MVA Master's degree at ENS Paris-Saclay** in France. I am studying multi-camera tokenisation methods applied to the field of autonomous cars. I like to work on open-source projects involving as little human supervision as possible and am therefore very interested in self-supervised or few-shot learning methods. Thanks to my last research experiences at [Valeo.ai](https://valeoai.github.io/blog/) and [Airbus DS](https://www.airbus.com/fr/space/space-made-in-france-by-airbus) I have acquired strong knowledge in the field of computer vision which I would like to apply on multi-modal learning topics involving vision, text, graphs and all other modalities.
+I am currently an ML research intern at [Raidium](https://www.raidium.eu/) where I work on adapting large-scale vision–language and self-supervised foundation models to the medical domain. My current research focuses on bridging natural and medical imaging by extending self-supervised learning to CT and MRI data, with the goal of learning transferable, robust representations for clinical tasks. I develop also contrastive reports to 3D MRI/CT volumes pre-training as a backbone for report generation.
+
+Previously, I interned at [Valeo.ai](https://valeoai.github.io/blog/) as part of my **MVA Master's degree at ENS Paris-Saclay** in France. I am studying multi-camera tokenisation methods applied to the field of autonomous cars. I like to work on open-source projects involving as little human supervision as possible and am therefore very interested in self-supervised or few-shot learning methods. Thanks to my last research experiences at [Valeo.ai](https://valeoai.github.io/blog/) and [Airbus DS](https://www.airbus.com/fr/space/space-made-in-france-by-airbus).
 
 
-Resume
-======
-
-<a href="/files/Resume_callard_baptiste.pdf" target="_blank"><img src="/images/resume.png" alt="Resume" width="300" height="100" /></a>
 
 
 News
 ======
+
+- *News* 🎓 (`08/09/2025`): Curia new SOTA MRI/CT model is out [arxiv](https://arxiv.org/abs/2509.06830). 
+
+- *News* 🩻 (`10/03/2025`): Joined Raidium as a permanent ML Researcher. 
 
 - *News* 🎓 (`01/09/2024`): Obtained my MS. MVA from ENS Paris-Saclay with the highest honor (18.20/20.0). 
 
