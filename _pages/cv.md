@@ -23,7 +23,7 @@ redirect_from:
 <span style="color:rgba(65, 70, 75, 1)">Work experience
 ======
 
-* <span style="color:rgba(65, 70, 75, 1)">Apr. - Oct. 2024</span>: ML Research intern at [<img src="/images/raidium.png" alt="Raidium" width="30" height="10" />](https://www.raidium.eu/agi-research/#all-publications) \
+* <span style="color:rgba(65, 70, 75, 1)">March. 2025 - today </span>: ML Research intern at [<img src="/images/raidium.png" alt="Raidium" width="30" height="10" />](https://www.raidium.eu/agi-research/#all-publications) \
   **Role**: Pre-training model at scale with self-supervision learning and text-image contrastive learning
 
 * <span style="color:rgba(65, 70, 75, 1)">Apr. - Oct. 2024</span>: ML Research intern at [<img src="/images/valeo_logo.png" alt="Valeo.ai" width="60" height="20" />](https://valeoai.github.io/blog/) ([Team Valeo.ai](https://valeoai.github.io/blog/)) \
